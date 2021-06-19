@@ -5,6 +5,7 @@
 # Ques 1 answer= input("1-100")
 # Ques 2,3,4 answer= input("1-100")
 
+
 # each Qs A's must be recorded as separate variables
 import csv
 import numpy as np
